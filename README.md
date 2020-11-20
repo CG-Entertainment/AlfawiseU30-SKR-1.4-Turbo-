@@ -1,4 +1,6 @@
 # Marlin 3D Printer Firmware
+Specially edited to work best, with an Alfawise U30 (or PRO)/Longer LK4 (or Pro) equipped with SKR 1.4 Turbo card and BlTouch
+Power by MorpheusTao
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
