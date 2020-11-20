@@ -1,0 +1,64 @@
+{
+    "configurations": [
+        {
+            "name": "!!! WARNING !!! AUTO-GENERATED FILE, PLEASE DO NOT MODIFY IT AND USE https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags"
+        },
+        {
+            "name": "Win32",
+            "includePath": [
+                "d:/github/Marlin/Marlin",
+                "d:/github/Marlin/.pio/libdeps/LPC1769/U8glib-HAL/src",
+                "d:/github/Marlin/.pio/libdeps/LPC1769/TMCStepper/src",
+                "C:/Users/Morpheus Tao/.platformio/packages/framework-arduino-lpc176x/libraries/Servo/src",
+                "d:/github/Marlin/Marlin/src/HAL/LPC1768/include",
+                "d:/github/Marlin/Marlin/src/HAL/LPC1768/u8g",
+                "C:/Users/Morpheus Tao/.platformio/packages/framework-arduino-lpc176x/cores/arduino",
+                "C:/Users/Morpheus Tao/.platformio/packages/framework-arduino-lpc176x/system/CMSIS/include",
+                "C:/Users/Morpheus Tao/.platformio/packages/framework-arduino-lpc176x/system/CMSIS/lib",
+                "C:/Users/Morpheus Tao/.platformio/packages/framework-arduino-lpc176x/system/lpc176x",
+                "C:/Users/Morpheus Tao/.platformio/packages/tool-unity",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "d:/github/Marlin/Marlin",
+                    "d:/github/Marlin/.pio/libdeps/LPC1769/U8glib-HAL/src",
+                    "d:/github/Marlin/.pio/libdeps/LPC1769/TMCStepper/src",
+                    "C:/Users/Morpheus Tao/.platformio/packages/framework-arduino-lpc176x/libraries/Servo/src",
+                    "d:/github/Marlin/Marlin/src/HAL/LPC1768/include",
+                    "d:/github/Marlin/Marlin/src/HAL/LPC1768/u8g",
+                    "C:/Users/Morpheus Tao/.platformio/packages/framework-arduino-lpc176x/cores/arduino",
+                    "C:/Users/Morpheus Tao/.platformio/packages/framework-arduino-lpc176x/system/CMSIS/include",
+                    "C:/Users/Morpheus Tao/.platformio/packages/framework-arduino-lpc176x/system/CMSIS/lib",
+                    "C:/Users/Morpheus Tao/.platformio/packages/framework-arduino-lpc176x/system/lpc176x",
+                    "C:/Users/Morpheus Tao/.platformio/packages/tool-unity",
+                    ""
+                ]
+            },
+            "defines": [
+                "LPC176X_FRAMEWORK",
+                "TARGET_LPC1768",
+                "F_CPU=120000000L",
+                "MCU_LPC1769",
+                "PIO_PLATFORM_VERSION=1003UL",
+                "PIO_FRAMEWORK_VERSION=2005UL",
+                "PLATFORMIO=50002",
+                "__MARLIN_FIRMWARE__",
+                "U8G_HAL_LINKS",
+                "ARDUINO_ARCH_LPC176X",
+                "ARDUINOLPC=10805",
+                ""
+            ],
+            "intelliSenseMode": "clang-x64",
+            "cppStandard": "c++17",
+            "compilerPath": "C:/Users/Morpheus Tao/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc.exe",
+            "compilerArgs": [
+                "-mthumb",
+                "-mcpu=cortex-m3",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
